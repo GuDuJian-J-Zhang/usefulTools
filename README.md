@@ -15,3 +15,6 @@ eryar bolg: [OpenCasCade](http://www.cppblog.com/eryar/archive/2014/11/16/208897
 
 Bool Operation on Mesh:
 [CSG](https://github.com/evanw/csg.js)
+
+CAD:
+[solvespace](https://github.com/solvespace/solvespace)
