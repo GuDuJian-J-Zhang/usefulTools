@@ -19,3 +19,4 @@ Bool Operation on Mesh:
 CAD:
 [solvespace](https://github.com/solvespace/solvespace)
 [qcad](https://github.com/qcad/qcad)
+[CoffeeSCad](https://github.com/kaosat-dev/CoffeeSCad)
