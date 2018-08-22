@@ -18,3 +18,4 @@ Bool Operation on Mesh:
 
 CAD:
 [solvespace](https://github.com/solvespace/solvespace)
+[qcad](https://github.com/qcad/qcad)
