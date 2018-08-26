@@ -20,3 +20,4 @@ CAD:
 [solvespace](https://github.com/solvespace/solvespace)
 [qcad](https://github.com/qcad/qcad)
 [CoffeeSCad](https://github.com/kaosat-dev/CoffeeSCad)
+[list of cad](https://wiki.opensourceecology.org/wiki/List_of_CAD_Programs)
