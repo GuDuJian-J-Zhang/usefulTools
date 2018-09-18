@@ -25,3 +25,6 @@ CAD:
 
 物理过程模拟C++开源工具：
 [Geant4](https://github.com/Geant4/geant4)
+
+# WebGL
+- 检测浏览器webgl支持情况：https://caniuse.com/#feat=webgl
