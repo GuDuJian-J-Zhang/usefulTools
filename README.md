@@ -28,6 +28,7 @@ CAD:
 
 # WebGL
 - 检测浏览器webgl支持情况：https://caniuse.com/#feat=webgl
+- 检测浏览器webgl支持情况：http://webglreport.com/?v=1
 
 # Mesh
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
