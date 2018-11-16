@@ -35,3 +35,6 @@ CAD:
 
 # 并行
 - [openMP Doc](https://www.ibm.com/developerworks/cn/aix/library/au-aix-openmp-framework/index.html)
+
+# Learn OpenGL
+- [opengl](https://learnopengl-cn.github.io/intro/)
