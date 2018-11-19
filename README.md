@@ -30,6 +30,8 @@ CAD:
 - 检测浏览器webgl支持情况：https://caniuse.com/#feat=webgl
 - 检测浏览器webgl支持情况：http://webglreport.com/?v=1
 - Learn WebGL: [https://hackr.io/tutorials/learn-webgl](https://hackr.io/tutorials/learn-webgl)
+- WebGL 性能优化：
+  -- [https://webglfundamentals.org/webgl/lessons/zh_cn/webgl-drawing-multiple-things.html](https://webglfundamentals.org/webgl/lessons/zh_cn/webgl-drawing-multiple-things.html)
 
 # Mesh
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
