@@ -43,3 +43,4 @@ CAD:
 # Learn OpenGL
 - [opengl](https://learnopengl-cn.github.io/intro/)
 - [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html)
+- 关于视图矩阵的一篇不错的文章：[https://www.3dgep.com/understanding-the-view-matrix/](https://www.3dgep.com/understanding-the-view-matrix/)
