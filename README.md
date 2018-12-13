@@ -34,6 +34,7 @@ CAD:
   - [https://webglfundamentals.org/webgl/lessons/zh_cn/webgl-drawing-multiple-things.html](https://webglfundamentals.org/webgl/lessons/zh_cn/webgl-drawing-multiple-things.html)
   - [http://kb.kaon.com/general-information/kaon-technology/optimizing-large-3d-models-for-the-web](http://kb.kaon.com/general-information/kaon-technology/optimizing-large-3d-models-for-the-web)
  - Shader [https://github.com/stackgl/shader-school](https://github.com/stackgl/shader-school)
+ - [https://github.com/stackgl](https://github.com/stackgl)
 
 # Mesh
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
