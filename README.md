@@ -47,3 +47,6 @@ CAD:
 - [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html)
 - 关于视图矩阵的一篇不错的文章：[https://www.3dgep.com/understanding-the-view-matrix/](https://www.3dgep.com/understanding-the-view-matrix/)
 - 关于四元素的说明： [https://www.3dgep.com/understanding-quaternions/](https://www.3dgep.com/understanding-quaternions/)
+
+# C/C++
+ - 逆向工程 [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
