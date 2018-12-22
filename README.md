@@ -41,6 +41,7 @@ CAD:
 
 # 并行
 - [openMP Doc](https://www.ibm.com/developerworks/cn/aix/library/au-aix-openmp-framework/index.html)
+- [MPI] [https://github.com/KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos)
 
 # Learn OpenGL
 - [opengl](https://learnopengl-cn.github.io/intro/)
