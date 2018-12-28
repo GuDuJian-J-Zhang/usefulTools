@@ -36,6 +36,7 @@ CAD:
  - Shader [https://github.com/stackgl/shader-school](https://github.com/stackgl/shader-school)
  - [https://github.com/stackgl](https://github.com/stackgl)
  - AGI [https://github.com/AnalyticalGraphicsInc](https://github.com/AnalyticalGraphicsInc)
+ - paraview-glance [https://kitware.github.io/paraview-glance/app/](https://kitware.github.io/paraview-glance/app/)
 
 # Mesh
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
