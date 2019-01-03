@@ -37,6 +37,7 @@ CAD:
  - [https://github.com/stackgl](https://github.com/stackgl)
  - AGI [https://github.com/AnalyticalGraphicsInc](https://github.com/AnalyticalGraphicsInc)
  - paraview-glance [https://kitware.github.io/paraview-glance/app/](https://kitware.github.io/paraview-glance/app/)
+ - webgl-worker [https://github.com/kripken/webgl-worker](https://github.com/kripken/webgl-worker)
 
 # Mesh
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
