@@ -56,6 +56,7 @@ CAD:
 - 关于视图矩阵的一篇不错的文章：[https://www.3dgep.com/understanding-the-view-matrix/](https://www.3dgep.com/understanding-the-view-matrix/)
 - 关于四元素的说明： [https://www.3dgep.com/understanding-quaternions/](https://www.3dgep.com/understanding-quaternions/)
 - 贝塞尔曲线介绍：[https://pomax.github.io/bezierinfo/zh-CN/#whatis](https://pomax.github.io/bezierinfo/zh-CN/#whatis)
+- http://www.opengl-tutorial.org/
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
