@@ -64,3 +64,6 @@ CAD:
 
 # C/C++
  - 逆向工程 [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
+ # QT
+  - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
+  - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
