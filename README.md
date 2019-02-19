@@ -67,3 +67,4 @@ CAD:
  # QT
   - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
   - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
+  - [https://github.com/LaughlinResearch/SMESH](https://github.com/LaughlinResearch/SMESH)
