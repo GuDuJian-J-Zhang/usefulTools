@@ -68,3 +68,6 @@ CAD:
   - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
   - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
   - [https://github.com/LaughlinResearch/SMESH](https://github.com/LaughlinResearch/SMESH)
+  
+# VTK
+  - [https://vtk.org/Wiki/VTK/Examples/Cxx/PolyData/ExtractSelection](https://vtk.org/Wiki/VTK/Examples/Cxx/PolyData/ExtractSelection)
