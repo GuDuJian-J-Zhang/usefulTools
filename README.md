@@ -71,3 +71,6 @@ CAD:
   
 # VTK
   - [https://vtk.org/Wiki/VTK/Examples/Cxx/PolyData/ExtractSelection](https://vtk.org/Wiki/VTK/Examples/Cxx/PolyData/ExtractSelection)
+  
+# Web File Upload
+ - [https://github.com/23/resumable.js](https://github.com/23/resumable.js)
