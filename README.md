@@ -79,3 +79,4 @@ CAD:
  
 # Solver
 - [https://github.com/KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos)
+- [https://github.com/GeneralElectric/CalculiX](https://github.com/GeneralElectric/CalculiX)
