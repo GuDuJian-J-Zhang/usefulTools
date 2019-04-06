@@ -76,6 +76,7 @@ CAD:
  - [https://github.com/23/resumable.js](https://github.com/23/resumable.js)
  - [https://github.com/fex-team/webuploader/](https://github.com/fex-team/webuploader/)
  - [https://github.com/elninotech/uppload](https://github.com/elninotech/uppload)
+ - [https://github.com/transloadit/uppy](https://github.com/transloadit/uppy)
  
 # Solver
 - [https://github.com/KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos)
