@@ -96,4 +96,7 @@ CAD:
  
 # test
  - [https://github.com/the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+ 
+# Debug
+ - [Debugging Webpack with VS Code](https://medium.com/@jsilvax/debugging-webpack-with-vs-code-b14694db4f8e)
 
