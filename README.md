@@ -58,6 +58,7 @@ CAD:
 - [opengl](https://learnopengl-cn.github.io/intro/)
 - [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html)
 - 关于视图矩阵的一篇不错的文章：[https://www.3dgep.com/understanding-the-view-matrix/](https://www.3dgep.com/understanding-the-view-matrix/)
+- 视图矩阵的推导：[https://www.cnblogs.com/DvsJ/p/7028946.html](https://www.cnblogs.com/DvsJ/p/7028946.html)
 - 关于透视投影矩阵的推导：[http://learnwebgl.brown37.net/08_projections/projections_perspective.html](http://learnwebgl.brown37.net/08_projections/projections_perspective.html)
 - 关于四元素的说明： [https://www.3dgep.com/understanding-quaternions/](https://www.3dgep.com/understanding-quaternions/)
 - 贝塞尔曲线介绍：[https://pomax.github.io/bezierinfo/zh-CN/#whatis](https://pomax.github.io/bezierinfo/zh-CN/#whatis)
