@@ -111,4 +111,6 @@ CAD:
  -[https://github.com/cmake-js/cmake-js](https://github.com/cmake-js/cmake-js)
 # 算法
  -[漫画：什么是LRU（Least Recently Used）算法](https://blog.csdn.net/wydyd110/article/details/84023688)
+# 数据结构
+ -[配对堆（pairing-heap）](https://oi-wiki.org/ds/pairing-heap/)
 
