@@ -105,6 +105,17 @@ CAD:
  
 # Debug
  - [Debugging Webpack with VS Code](https://medium.com/@jsilvax/debugging-webpack-with-vs-code-b14694db4f8e)
+ - [Debugging gulp with VS Code]
+ ```
+ {
+    "type": "node",
+    "request": "launch",
+    "name": "gulp",
+    "args": ["setup.thirdParty"], // 要调试的gulp task
+    "cwd": "${workspaceRoot}/project/", // gulpfile.js所在的位置
+    "program": "${workspaceRoot}/project/node_modules/gulp/bin/gulp.js"
+ }
+ ```
  - [python性能分析工具](https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/)
 # CSV 文件解析
  - [https://github.com/mholt/PapaParse](https://github.com/mholt/PapaParse)
