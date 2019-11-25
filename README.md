@@ -50,6 +50,7 @@ CAD:
 # Mesh
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
 - [网格压缩]（https://github.com/google/draco）
+- [https://www.openvdb.org/](https://www.openvdb.org/)
 
 # 并行
 - [openMP Doc](https://www.ibm.com/developerworks/cn/aix/library/au-aix-openmp-framework/index.html)
