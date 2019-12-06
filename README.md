@@ -132,4 +132,7 @@ CAD:
   ![image](https://user-images.githubusercontent.com/21232983/68521266-617e1380-02da-11ea-9a94-7c61d3603990.png)
 # 开源协议说明：
    ![image](https://user-images.githubusercontent.com/21232983/69109095-9a27a500-0ab1-11ea-93fb-ddb8d678165d.png)
+   
+# 物理引擎 布料仿真
+ - [https://aatishb.com/drape/](https://aatishb.com/drape/)
 
