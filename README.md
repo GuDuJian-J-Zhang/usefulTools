@@ -44,6 +44,7 @@ CAD:
  - [JS各矩阵计算库性能比较]（https://github.com/stepheneb/webgl-matrix-benchmarks）
  - [https://blog.csdn.net/liu_lin_xm/article/details/4850609](https://blog.csdn.net/liu_lin_xm/article/details/4850609)
  - 体渲染 [http://www.lebarba.com/](http://www.lebarba.com/)
+ - threejs 体渲染 [https://threejs.org/examples/webgl2_materials_texture3d.html](https://threejs.org/examples/webgl2_materials_texture3d.html)
  - 关于promise的执行顺序问题 [https://stackoverflow.com/questions/25345520/multiple-thens-on-single-angularjs-promise-all-use-original-data](https://stackoverflow.com/questions/25345520/multiple-thens-on-single-angularjs-promise-all-use-original-data)
  
 # WebGL Framework
