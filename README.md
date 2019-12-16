@@ -72,6 +72,7 @@ CAD:
 - 贝塞尔曲线介绍：[https://pomax.github.io/bezierinfo/zh-CN/#whatis](https://pomax.github.io/bezierinfo/zh-CN/#whatis)
 - http://www.opengl-tutorial.org/
 - C++图片加载： [https://github.com/nothings/stb/edit/master/stb_image.h](https://github.com/nothings/stb/edit/master/stb_image.h)
+- Basis Universal GPU纹理编解码器: [https://github.com/BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal)
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
