@@ -81,6 +81,7 @@ CAD:
  - 逆向工程 [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
  - DLib [http://dlib.net/](http://dlib.net/)
  - [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+ - [稀疏矩阵求解]（https://github.com/ddemidov/amgcl）
  # QT
   - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
   - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
