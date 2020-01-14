@@ -44,6 +44,7 @@ CAD:
  - [JS各矩阵计算库性能比较]（https://github.com/stepheneb/webgl-matrix-benchmarks）
  - [https://blog.csdn.net/liu_lin_xm/article/details/4850609](https://blog.csdn.net/liu_lin_xm/article/details/4850609)
  - 体渲染 [http://www.lebarba.com/](http://www.lebarba.com/)
+ - 体渲染 [https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl](https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl)
  - threejs 体渲染 [https://threejs.org/examples/webgl2_materials_texture3d.html](https://threejs.org/examples/webgl2_materials_texture3d.html)
  - 关于promise的执行顺序问题 [https://stackoverflow.com/questions/25345520/multiple-thens-on-single-angularjs-promise-all-use-original-data](https://stackoverflow.com/questions/25345520/multiple-thens-on-single-angularjs-promise-all-use-original-data)
  - 关于直接体绘制中 float 型纹理渲染的问题： https://webgl2fundamentals.org/webgl/lessons/webgl-data-textures.html  需要添加扩展：OES_texture_float 和 OES_texture_float_linear
