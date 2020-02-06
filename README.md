@@ -148,4 +148,5 @@ CAD:
  
 # 虚拟机
  - VMware 11 SN：7HYY8-Z8WWY-F1MAN-ECKNY-LUXYX
+ - 共享目录位置： /mnt/hgfs
 
