@@ -160,4 +160,6 @@ CAD:
  
 # 网络相关
  - IP地址查询工具 [https://www.ipip.net/ip.html](https://www.ipip.net/ip.html)
+# 日常开发工具
+ - C++代码格式化工具 [https://github.com/lukamicoder/astyle-extension](https://github.com/lukamicoder/astyle-extension)
 
