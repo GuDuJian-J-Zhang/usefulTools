@@ -80,6 +80,7 @@ CAD:
 - http://www.opengl-tutorial.org/
 - C++图片加载： [https://github.com/nothings/stb/edit/master/stb_image.h](https://github.com/nothings/stb/edit/master/stb_image.h)
 - Basis Universal GPU纹理编解码器: [https://github.com/BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal)
+- 关于SwapChain的解释 [https://www.cnblogs.com/Wilson-Loo/articles/2797613.html](https://www.cnblogs.com/Wilson-Loo/articles/2797613.html)  实际上是缓冲区交换的解释
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
