@@ -166,4 +166,5 @@ CAD:
  - C++代码格式化工具 [https://github.com/lukamicoder/astyle-extension](https://github.com/lukamicoder/astyle-extension)
  - git merge的三种操作merge, squash merge, 和rebase merge [https://www.jianshu.com/p/ff1877c5864e](https://www.jianshu.com/p/ff1877c5864e)
  - bgfx 跨平台渲染库 [https://github.com/bkaradzic/bgfx](https://github.com/bkaradzic/bgfx)
+ - 3D文件格式转换 [Open-Asset-Importer-Library](https://github.com/assimp/assimp)
 
