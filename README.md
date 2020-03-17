@@ -167,4 +167,5 @@ CAD:
  - git merge的三种操作merge, squash merge, 和rebase merge [https://www.jianshu.com/p/ff1877c5864e](https://www.jianshu.com/p/ff1877c5864e)
  - bgfx 跨平台渲染库 [https://github.com/bkaradzic/bgfx](https://github.com/bkaradzic/bgfx)
  - 3D文件格式转换 [Open-Asset-Importer-Library](https://github.com/assimp/assimp)
+ - real-time physically based rendering engine [https://github.com/google/filament](https://github.com/google/filament)
 
