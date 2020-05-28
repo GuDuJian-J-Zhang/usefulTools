@@ -84,6 +84,7 @@ CAD:
 - Physically Based Rendering [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.org/3ed-2018/contents.html)
 - 关于通过模型矩阵的逆转置矩阵对法向量进行变换的说明 [https://paroj.github.io/gltut/Illumination/Tut09%20Normal%20Transformation.html](https://paroj.github.io/gltut/Illumination/Tut09%20Normal%20Transformation.html)
 - [https://github.com/bitzhuwei/CSharpGL](https://github.com/bitzhuwei/CSharpGL)
+- [https://thebookofshaders.com/](https://thebookofshaders.com/)
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
