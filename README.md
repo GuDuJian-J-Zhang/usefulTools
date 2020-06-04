@@ -85,6 +85,7 @@ CAD:
 - 关于通过模型矩阵的逆转置矩阵对法向量进行变换的说明 [https://paroj.github.io/gltut/Illumination/Tut09%20Normal%20Transformation.html](https://paroj.github.io/gltut/Illumination/Tut09%20Normal%20Transformation.html)
 - [https://github.com/bitzhuwei/CSharpGL](https://github.com/bitzhuwei/CSharpGL)
 - [https://thebookofshaders.com/](https://thebookofshaders.com/)
+- [http://www.reedbeta.com/](http://www.reedbeta.com/)
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
