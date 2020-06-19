@@ -175,6 +175,7 @@ CAD:
  - 3D文件格式转换 [Open-Asset-Importer-Library](https://github.com/assimp/assimp)
  - real-time physically based rendering engine [https://github.com/google/filament](https://github.com/google/filament)
  - RenderDoc is a free MIT licensed stand-alone graphics debugger  [https://renderdoc.org/](https://renderdoc.org/)
+ - [https://github.com/google/graphicsfuzz](https://github.com/google/graphicsfuzz)
 
 # 翻墙
  - lantern [https://getlantern.org/zh_CN/index.html](https://getlantern.org/zh_CN/index.html)
