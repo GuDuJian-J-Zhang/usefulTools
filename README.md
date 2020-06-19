@@ -52,6 +52,7 @@ CAD:
  - 剖切面：https://www.zhihu.com/question/266514298
  - 剖切面：https://github.com/daign/clipping-with-caps
  - glsl-colormap [https://github.com/glslify/glsl-colormap](https://github.com/glslify/glsl-colormap)
+ - [https://webglstudio.org/doc/](https://webglstudio.org/doc/)
  
  
 # WebGL Framework
