@@ -97,6 +97,7 @@ CAD:
  - [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
  - [稀疏矩阵求解]（https://github.com/ddemidov/amgcl）
  - [https://github.com/boostorg/compute](https://github.com/boostorg/compute)
+ - Modern C++ [https://www.modernescpp.com/index.php](https://www.modernescpp.com/index.php)
  # QT
   - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
   - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
