@@ -180,6 +180,7 @@ CAD:
  - RenderDoc is a free MIT licensed stand-alone graphics debugger  [https://renderdoc.org/](https://renderdoc.org/)
  - [https://github.com/google/graphicsfuzz](https://github.com/google/graphicsfuzz)
  - [https://sketchfab.com/artur.krutov/collections/future_online](https://sketchfab.com/artur.krutov/collections/future_online)
+ - [https://hdrihaven.com/hdris/](https://hdrihaven.com/hdris/)
 
 # 翻墙
  - lantern [https://getlantern.org/zh_CN/index.html](https://getlantern.org/zh_CN/index.html)
