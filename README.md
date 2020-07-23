@@ -185,6 +185,10 @@ CAD:
  - a fast hash function [https://github.com/aappleby/smhasher](https://github.com/aappleby/smhasher)
  - [https://github.com/Gforcex/OpenGraphic](https://github.com/Gforcex/OpenGraphic)
  - CPP代码检查 [http://cppcheck.net/](http://cppcheck.net/)
+ 
+# Windows 录屏
+ - https://www.screentogif.com/
+ - Windows10 自带： win + G
 
 # 翻墙
  - lantern [https://getlantern.org/zh_CN/index.html](https://getlantern.org/zh_CN/index.html)
