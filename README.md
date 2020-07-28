@@ -185,6 +185,7 @@ CAD:
  - a fast hash function [https://github.com/aappleby/smhasher](https://github.com/aappleby/smhasher)
  - [https://github.com/Gforcex/OpenGraphic](https://github.com/Gforcex/OpenGraphic)
  - CPP代码检查 [http://cppcheck.net/](http://cppcheck.net/)
+ - 一些常用的位运算 [http://www.graphics.stanford.edu/~seander/bithacks.html](http://www.graphics.stanford.edu/~seander/bithacks.html)
  
 # Windows 录屏
  - https://www.screentogif.com/
