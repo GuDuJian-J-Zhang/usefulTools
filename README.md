@@ -89,6 +89,7 @@ CAD:
 - [http://www.reedbeta.com/](http://www.reedbeta.com/)
 - [https://arm-software.github.io/opengl-es-sdk-for-android/](https://arm-software.github.io/opengl-es-sdk-for-android/)
 - 半透明渲染 [http://b.2uv.xyz/lighting/translucent](http://b.2uv.xyz/lighting/translucent)
+- About UnLit Material [https://www.polygon-treehouse.com/blog/2017/10/2/lighting-the-unlit](https://www.polygon-treehouse.com/blog/2017/10/2/lighting-the-unlit)
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
