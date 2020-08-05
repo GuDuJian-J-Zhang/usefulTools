@@ -26,9 +26,6 @@ CAD:
 物理过程模拟C++开源工具：
 [Geant4](https://github.com/Geant4/geant4)
 
-# Mesh
-- [http://www.cs.ubc.ca/labs/imager/tr/2011/HexMeshingPolycubeDeformation/](http://www.cs.ubc.ca/labs/imager/tr/2011/HexMeshingPolycubeDeformation/)
-
 # WebGL
 - 检测浏览器webgl支持情况：https://caniuse.com/#feat=webgl
 - 检测浏览器webgl支持情况：http://webglreport.com/?v=1
@@ -65,6 +62,8 @@ CAD:
 - [OpenVolumeMesh](https://www.graphics.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh)
 - [网格压缩](https://github.com/google/draco)
 - [https://www.openvdb.org/](https://www.openvdb.org/)
+- Mesh parameterization [https://github.com/cpp-pm/xatlas](https://github.com/cpp-pm/xatlas)
+- [http://www.cs.ubc.ca/labs/imager/tr/2011/HexMeshingPolycubeDeformation/](http://www.cs.ubc.ca/labs/imager/tr/2011/HexMeshingPolycubeDeformation/)
 
 # 并行
 - [openMP Doc](https://www.ibm.com/developerworks/cn/aix/library/au-aix-openmp-framework/index.html)
