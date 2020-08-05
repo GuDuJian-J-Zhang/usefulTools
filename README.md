@@ -26,6 +26,9 @@ CAD:
 物理过程模拟C++开源工具：
 [Geant4](https://github.com/Geant4/geant4)
 
+# Mesh
+- [http://www.cs.ubc.ca/labs/imager/tr/2011/HexMeshingPolycubeDeformation/](http://www.cs.ubc.ca/labs/imager/tr/2011/HexMeshingPolycubeDeformation/)
+
 # WebGL
 - 检测浏览器webgl支持情况：https://caniuse.com/#feat=webgl
 - 检测浏览器webgl支持情况：http://webglreport.com/?v=1
