@@ -93,6 +93,7 @@ CAD:
 - 半透明渲染 [http://b.2uv.xyz/lighting/translucent](http://b.2uv.xyz/lighting/translucent)
 - About UnLit Material [https://www.polygon-treehouse.com/blog/2017/10/2/lighting-the-unlit](https://www.polygon-treehouse.com/blog/2017/10/2/lighting-the-unlit)
 - Multipass Rendering [http://members.iinet.net.au/~multispud22/lahl/tutorials/Multipass/Multipass-intro.htm](http://members.iinet.net.au/~multispud22/lahl/tutorials/Multipass/Multipass-intro.htm)
+- 关于TBN矩阵的计算 [http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html](http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html)
 
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
