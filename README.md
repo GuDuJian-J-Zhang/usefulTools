@@ -95,6 +95,9 @@ CAD:
 - Multipass Rendering [http://members.iinet.net.au/~multispud22/lahl/tutorials/Multipass/Multipass-intro.htm](http://members.iinet.net.au/~multispud22/lahl/tutorials/Multipass/Multipass-intro.htm)
 - 关于TBN矩阵的计算 [http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html](http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html)
 
+# Shader Performance
+ - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
+
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
 
