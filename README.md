@@ -197,6 +197,7 @@ CAD:
  - CPP代码检查 [http://cppcheck.net/](http://cppcheck.net/)
  - 一些常用的位运算 [http://www.graphics.stanford.edu/~seander/bithacks.html](http://www.graphics.stanford.edu/~seander/bithacks.html)
  - pdf翻译 [https://github.com/CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+ - Image Meta Information: [https://exiftool.org/](https://exiftool.org/)
  
 # Windows 录屏
  - https://www.screentogif.com/
