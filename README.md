@@ -109,6 +109,7 @@ CAD:
  - [稀疏矩阵求解]（https://github.com/ddemidov/amgcl）
  - [https://github.com/boostorg/compute](https://github.com/boostorg/compute)
  - Modern C++ [https://www.modernescpp.com/index.php](https://www.modernescpp.com/index.php)
+ - 内存管理 [https://github.com/foonathan/memory](https://github.com/foonathan/memory)
  # QT
   - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
   - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
