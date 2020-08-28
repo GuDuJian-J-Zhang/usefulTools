@@ -81,7 +81,8 @@ CAD:
 - 关于四元素的说明： [https://www.3dgep.com/understanding-quaternions/](https://www.3dgep.com/understanding-quaternions/)
 - 贝塞尔曲线介绍：[https://pomax.github.io/bezierinfo/zh-CN/#whatis](https://pomax.github.io/bezierinfo/zh-CN/#whatis)
 - http://www.opengl-tutorial.org/
-- C++图片加载： [https://github.com/nothings/stb/edit/master/stb_image.h](https://github.com/nothings/stb/edit/master/stb_image.h)
+- 图片加载： [https://github.com/nothings/stb/edit/master/stb_image.h](https://github.com/nothings/stb/edit/master/stb_image.h)
+- 图片加载：[https://github.com/OpenImageIO/oiio](https://github.com/OpenImageIO/oiio)
 - Basis Universal GPU纹理编解码器: [https://github.com/BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal)
 - 关于SwapChain的解释 [https://www.cnblogs.com/Wilson-Loo/articles/2797613.html](https://www.cnblogs.com/Wilson-Loo/articles/2797613.html)  实际上是缓冲区交换的解释
 - Physically Based Rendering [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.org/3ed-2018/contents.html)
