@@ -108,8 +108,11 @@ CAD:
  - [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
  - [稀疏矩阵求解]（https://github.com/ddemidov/amgcl）
  - [https://github.com/boostorg/compute](https://github.com/boostorg/compute)
- - Modern C++ [https://www.modernescpp.com/index.php](https://www.modernescpp.com/index.php)
  - 内存管理 [https://github.com/foonathan/memory](https://github.com/foonathan/memory)
+ ## Learn C++
+ - [https://cppcon.org/](https://cppcon.org/)
+ - [https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+ - Modern C++ [https://www.modernescpp.com/index.php](https://www.modernescpp.com/index.php)
  # QT
   - [https://github.com/mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
   - [https://github.com/qCring/QuickVtk](https://github.com/qCring/QuickVtk)
