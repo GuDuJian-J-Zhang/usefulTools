@@ -95,6 +95,7 @@ CAD:
 - About UnLit Material [https://www.polygon-treehouse.com/blog/2017/10/2/lighting-the-unlit](https://www.polygon-treehouse.com/blog/2017/10/2/lighting-the-unlit)
 - Multipass Rendering [http://members.iinet.net.au/~multispud22/lahl/tutorials/Multipass/Multipass-intro.htm](http://members.iinet.net.au/~multispud22/lahl/tutorials/Multipass/Multipass-intro.htm)
 - 关于TBN矩阵的计算 [http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html](http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html)
+- GLSL Effects [http://glslsandbox.com/](http://glslsandbox.com/)
 
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
