@@ -51,6 +51,7 @@ CAD:
  - 关于直接体绘制中 float 型纹理渲染的问题： https://webgl2fundamentals.org/webgl/lessons/webgl-data-textures.html  需要添加扩展：OES_texture_float 和 OES_texture_float_linear
  - 剖切面：https://www.zhihu.com/question/266514298
  - 剖切面：https://github.com/daign/clipping-with-caps
+ - 剖切面网格生成： https://github.com/greenm01/poly2tri
  - glsl-colormap [https://github.com/glslify/glsl-colormap](https://github.com/glslify/glsl-colormap)
  - [https://webglstudio.org/doc/](https://webglstudio.org/doc/)
  
