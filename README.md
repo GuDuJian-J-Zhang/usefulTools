@@ -98,6 +98,7 @@ CAD:
 - 关于TBN矩阵的计算 [http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html](http://hacksoflife.blogspot.com/2009/11/per-pixel-tangent-space-normal-mapping.html)
 - GLSL Effects [http://glslsandbox.com/](http://glslsandbox.com/)
 - [https://blender.stackexchange.com/questions/72/what-is-the-difference-between-a-uv-sphere-and-an-icosphere](https://blender.stackexchange.com/questions/72/what-is-the-difference-between-a-uv-sphere-and-an-icosphere)
+- Texture LOD [https://rendermeapangolin.wordpress.com/2015/05/27/opengl-texture-lod/](https://rendermeapangolin.wordpress.com/2015/05/27/opengl-texture-lod/)
 
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
