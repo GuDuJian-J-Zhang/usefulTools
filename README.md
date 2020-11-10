@@ -100,6 +100,7 @@ CAD:
 - [https://blender.stackexchange.com/questions/72/what-is-the-difference-between-a-uv-sphere-and-an-icosphere](https://blender.stackexchange.com/questions/72/what-is-the-difference-between-a-uv-sphere-and-an-icosphere)
 - Texture LOD [https://rendermeapangolin.wordpress.com/2015/05/27/opengl-texture-lod/](https://rendermeapangolin.wordpress.com/2015/05/27/opengl-texture-lod/)
 - [https://github.com/TwoTailsGames/Unity-Built-in-Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders)
+- [https://zhuanlan.zhihu.com/p/165062873](https://zhuanlan.zhihu.com/p/165062873)
 
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
