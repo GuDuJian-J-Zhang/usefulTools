@@ -101,6 +101,7 @@ CAD:
 - Texture LOD [https://rendermeapangolin.wordpress.com/2015/05/27/opengl-texture-lod/](https://rendermeapangolin.wordpress.com/2015/05/27/opengl-texture-lod/)
 - [https://github.com/TwoTailsGames/Unity-Built-in-Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders)
 - [https://zhuanlan.zhihu.com/p/165062873](https://zhuanlan.zhihu.com/p/165062873)
+- [https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/user_guide.md.html](https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/user_guide.md.html)
 
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
