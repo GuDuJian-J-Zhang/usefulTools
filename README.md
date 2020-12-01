@@ -104,6 +104,9 @@ CAD:
 - [https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/user_guide.md.html](https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/user_guide.md.html)
  - [https://github.com/sidch/Thea](https://github.com/sidch/Thea)
  - [blending] [http://www.realtimerendering.com/blog/gpus-prefer-premultiplication/](http://www.realtimerendering.com/blog/gpus-prefer-premultiplication/)
+ 
+## Blending
+  - http://zh.esotericsoftware.com/forum/Premultiplied-Alpha-Guide-3132
 
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
