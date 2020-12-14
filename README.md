@@ -111,6 +111,7 @@ CAD:
   - https://paroj.github.io/gltut/Positioning/Tut07%20Shared%20Uniforms.html
 ## HDR + MSAA
   - http://theagentd.blogspot.com/2013/01/hdr-inverse-tone-mapping-msaa-resolve.html
+  - https://mynameismjp.wordpress.com/2012/10/24/msaa-overview/
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 
