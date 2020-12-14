@@ -109,7 +109,8 @@ CAD:
   - http://zh.esotericsoftware.com/forum/Premultiplied-Alpha-Guide-3132
 ## Shared  Uniforms
   - https://paroj.github.io/gltut/Positioning/Tut07%20Shared%20Uniforms.html
-
+## HDR + MSAA
+  - http://theagentd.blogspot.com/2013/01/hdr-inverse-tone-mapping-msaa-resolve.html
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 
