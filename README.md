@@ -112,9 +112,10 @@ CAD:
 ## HDR + MSAA
   - http://theagentd.blogspot.com/2013/01/hdr-inverse-tone-mapping-msaa-resolve.html
   - https://mynameismjp.wordpress.com/2012/10/24/msaa-overview/
+## Performance
+  - http://developer.amd.com/wordpress/media/2013/05/GCNPerformanceTweets.pdf
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
-
 # Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
 
