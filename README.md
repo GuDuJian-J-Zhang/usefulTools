@@ -115,6 +115,7 @@ CAD:
 ## Performance
   - http://developer.amd.com/wordpress/media/2013/05/GCNPerformanceTweets.pdf
 ## Image Loader
+  - https://github.com/g-truc/gli
   - https://github.com/paroj/nv_dds
 ## Custum Shader
   - https://developer.playcanvas.com/en/tutorials/custom-shaders/#
