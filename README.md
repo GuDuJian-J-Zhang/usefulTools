@@ -116,6 +116,8 @@ CAD:
   - http://developer.amd.com/wordpress/media/2013/05/GCNPerformanceTweets.pdf
 ## Image Loader
   - https://github.com/paroj/nv_dds
+## Custum Shader
+  - https://developer.playcanvas.com/en/tutorials/custom-shaders/#
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 # Remote Rendering
