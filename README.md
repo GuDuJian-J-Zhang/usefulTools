@@ -118,6 +118,7 @@ CAD:
   - https://github.com/paroj/nv_dds
 ## Custum Shader
   - https://developer.playcanvas.com/en/tutorials/custom-shaders/#
+  - https://threejs.org/docs/#api/en/materials/ShaderMaterial
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 # Remote Rendering
