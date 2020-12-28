@@ -114,6 +114,8 @@ CAD:
   - https://mynameismjp.wordpress.com/2012/10/24/msaa-overview/
 ## Performance
   - http://developer.amd.com/wordpress/media/2013/05/GCNPerformanceTweets.pdf
+## Image Loader
+  - https://github.com/paroj/nv_dds
 # Shader Performance
  - Avoiding Shader Conditionals [http://theorangeduck.com/page/avoiding-shader-conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 # Remote Rendering
