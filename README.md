@@ -226,6 +226,7 @@ CAD:
  - pdf翻译 [https://github.com/CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
  - Image Meta Information: [https://exiftool.org/](https://exiftool.org/)
  - Enum to String [https://github.com/Neargye/magic_enum](https://github.com/Neargye/magic_enum)
+ - https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/
  
 # Windows 录屏
  - https://www.screentogif.com/
