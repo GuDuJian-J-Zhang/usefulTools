@@ -62,6 +62,7 @@ CAD:
  - https://github.com/floooh/sokol
  - https://github.com/Kode/Kinc
  - https://dev.to/funatsufumiya/comparison-of-c-low-level-graphics-cross-platform-frameworks-and-libraries-58e5
+ - https://github.com/terkelg/awesome-creative-coding
  
 # WebGL Framework
  - [https://medevel.com/16-webgl-opensource-frameworks/](https://medevel.com/16-webgl-opensource-frameworks/)
