@@ -239,6 +239,7 @@ CAD:
  - Enum to String [https://github.com/Neargye/magic_enum](https://github.com/Neargye/magic_enum)
  - https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/
  - Python Imaging Library [https://pypi.org/project/Pillow/](https://pypi.org/project/Pillow/)
+ - https://github.com/conwnet/github1s
  
 # Windows 录屏
  - https://www.screentogif.com/
