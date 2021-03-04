@@ -129,6 +129,9 @@ CAD:
 ## Custum Shader
   - https://developer.playcanvas.com/en/tutorials/custom-shaders/#
   - https://threejs.org/docs/#api/en/materials/ShaderMaterial
+
+## Post Processing
+  - [http://dev.theomader.com/gaussian-kernel-calculator/](http://dev.theomader.com/gaussian-kernel-calculator/)
  
 ## Shader Program
   - OpenGL Separate Shader Program [https://zhuanlan.zhihu.com/p/86897834](https://zhuanlan.zhihu.com/p/86897834)
