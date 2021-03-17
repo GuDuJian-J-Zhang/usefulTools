@@ -253,6 +253,9 @@ CAD:
  - https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/
  - Python Imaging Library [https://pypi.org/project/Pillow/](https://pypi.org/project/Pillow/)
  - https://github.com/conwnet/github1s
+
+## c++ format
+ - [FormatDocumentOnSave](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)  (vs 版本16.7.0以上)
  
 # Windows 录屏
  - https://www.screentogif.com/
