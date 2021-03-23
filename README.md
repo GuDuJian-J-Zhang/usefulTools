@@ -132,6 +132,7 @@ CAD:
 
 ## Ambient Occlusion
   - https://developer.blender.org/rB779c950098e46a34f89f1705be61b4b24be11568
+  - https://github.com/gkjohnson/threejs-sandbox/tree/master/gtaoPass
 
 ## Post Processing
   - [http://dev.theomader.com/gaussian-kernel-calculator/](http://dev.theomader.com/gaussian-kernel-calculator/)
