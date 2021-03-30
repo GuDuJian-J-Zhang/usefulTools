@@ -135,6 +135,10 @@ CAD:
   - https://github.com/gkjohnson/threejs-sandbox/tree/master/gtaoPass
   - https://research.nvidia.com/publication/scalable-ambient-obscurance
 
+## Recontruct normal from depth buffer
+  - https://wickedengine.net/2019/09/22/improved-normal-reconstruction-from-depth/
+  - https://atyuwen.github.io/posts/normal-reconstruction/
+
 ## Post Processing
   - [http://dev.theomader.com/gaussian-kernel-calculator/](http://dev.theomader.com/gaussian-kernel-calculator/)
  
