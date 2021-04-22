@@ -132,6 +132,15 @@ CAD:
 
 ## Ambient Occlusion
   - https://developer.blender.org/rB779c950098e46a34f89f1705be61b4b24be11568
+  - https://github.com/gkjohnson/threejs-sandbox/tree/master/gtaoPass
+  - https://research.nvidia.com/publication/scalable-ambient-obscurance
+  - https://www.derschmale.com/2013/12/20/an-alternative-implementation-for-hbao-2/
+  - https://github.com/scanberg/hbao
+  - noise https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
+
+## Recontruct normal from depth buffer
+  - https://wickedengine.net/2019/09/22/improved-normal-reconstruction-from-depth/
+  - https://atyuwen.github.io/posts/normal-reconstruction/
 
 ## Post Processing
   - [http://dev.theomader.com/gaussian-kernel-calculator/](http://dev.theomader.com/gaussian-kernel-calculator/)
@@ -256,6 +265,7 @@ CAD:
  - https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/
  - Python Imaging Library [https://pypi.org/project/Pillow/](https://pypi.org/project/Pillow/)
  - https://github.com/conwnet/github1s
+ - https://scoop.sh/ A command-line installer for Windows
 
 ## c++ format
  - [FormatDocumentOnSave](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)  (vs 版本16.7.0以上)
