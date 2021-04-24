@@ -266,6 +266,7 @@ CAD:
  - Python Imaging Library [https://pypi.org/project/Pillow/](https://pypi.org/project/Pillow/)
  - https://github.com/conwnet/github1s
  - https://scoop.sh/ A command-line installer for Windows
+ - https://ezgif.com/gif-to-mp4
 
 ## c++ format
  - [FormatDocumentOnSave](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)  (vs 版本16.7.0以上)
