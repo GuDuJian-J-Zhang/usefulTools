@@ -159,6 +159,9 @@ CAD:
 - https://github.com/madmann91/bvh
 - https://github.com/brandonpelfrey/Fast-BVH
 
+## Blogs
+- https://casual-effects.com/
+
 # C/C++
  - 逆向工程 [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
  - DLib [http://dlib.net/](http://dlib.net/)
