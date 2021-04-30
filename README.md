@@ -265,6 +265,7 @@ CAD:
  - pdf翻译 [https://github.com/CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
  - Image Meta Information: [https://exiftool.org/](https://exiftool.org/)
  - Enum to String [https://github.com/Neargye/magic_enum](https://github.com/Neargye/magic_enum)
+ - Enum to String [https://gist.github.com/ibab/54162246bc79279c43c7](https://gist.github.com/ibab/54162246bc79279c43c7)
  - https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/
  - Python Imaging Library [https://pypi.org/project/Pillow/](https://pypi.org/project/Pillow/)
  - https://github.com/conwnet/github1s
