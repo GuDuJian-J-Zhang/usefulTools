@@ -126,7 +126,7 @@ CAD:
   - https://github.com/paroj/nv_dds
   - https://github.com/nothings/stb/edit/master/stb_image.h
   - https://github.com/OpenImageIO/oiio
-## Custum Shader
+## Custom Shader
   - https://developer.playcanvas.com/en/tutorials/custom-shaders/#
   - https://threejs.org/docs/#api/en/materials/ShaderMaterial
 
