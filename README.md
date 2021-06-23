@@ -113,6 +113,7 @@ CAD:
  - [https://github.com/sidch/Thea](https://github.com/sidch/Thea)
  - [blending] [http://www.realtimerendering.com/blog/gpus-prefer-premultiplication/](http://www.realtimerendering.com/blog/gpus-prefer-premultiplication/)
  - [Shader Storage Buffer Object] https://www.reddit.com/r/opengl/comments/e7ep5w/query_program_for_active_ubos_and_ssbos/
+ - https://github.com/Unity-Technologies/Graphics/tree/master/com.unity.render-pipelines.universal/Shaders
  
 ## Blending
   - http://zh.esotericsoftware.com/forum/Premultiplied-Alpha-Guide-3132
