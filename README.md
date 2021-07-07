@@ -165,6 +165,9 @@ CAD:
 ## Blogs
 - https://casual-effects.com/
 
+## Math
+- http://kylehalladay.com/blog/tutorial/math/2013/12/24/Ray-Sphere-Intersection.html
+
 # C/C++
  - 逆向工程 [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
  - DLib [http://dlib.net/](http://dlib.net/)
