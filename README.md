@@ -158,6 +158,9 @@ CAD:
 ## GPU
 - https://developer.arm.com/documentation/101897/0201/Overview
 
+## GPU Profiler
+- Snapdragon Profiler
+
 ## Acceleration Structure
 - https://github.com/madmann91/bvh
 - https://github.com/brandonpelfrey/Fast-BVH
