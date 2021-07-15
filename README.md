@@ -161,6 +161,16 @@ CAD:
 ## GPU Profiler
 - Snapdragon Profiler
 
+## Float -> Half
+```
+Half to float:
+float f = ((h&0x8000)<<16) | (((h&0x7c00)+0x1C000)<<13) | ((h&0x03FF)<<13);
+
+Float to half:
+uint32_t x = *((uint32_t*)&f);
+uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13)&0x03ff);
+```
+
 ## Acceleration Structure
 - https://github.com/madmann91/bvh
 - https://github.com/brandonpelfrey/Fast-BVH
