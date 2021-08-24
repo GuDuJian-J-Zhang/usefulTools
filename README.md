@@ -161,6 +161,9 @@ CAD:
 ## GPU Profiler
 - Snapdragon Profiler
 
+## Siggraph
+http://advances.realtimerendering.com/s2014/
+
 ## Float -> Half
 ```
 Half to float:
