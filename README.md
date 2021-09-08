@@ -117,7 +117,7 @@ CAD:
  
 ## Blur
   - https://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
-  - 
+  - 十种图像模糊算法的总结与实现 https://zhuanlan.zhihu.com/p/125744132
 ## Blending
   - http://zh.esotericsoftware.com/forum/Premultiplied-Alpha-Guide-3132
 ## Shared  Uniforms
