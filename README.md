@@ -115,6 +115,9 @@ CAD:
  - [Shader Storage Buffer Object] https://www.reddit.com/r/opengl/comments/e7ep5w/query_program_for_active_ubos_and_ssbos/
  - https://github.com/Unity-Technologies/Graphics/tree/master/com.unity.render-pipelines.universal/Shaders
  
+## Blur
+  - https://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
+  - 
 ## Blending
   - http://zh.esotericsoftware.com/forum/Premultiplied-Alpha-Guide-3132
 ## Shared  Uniforms
