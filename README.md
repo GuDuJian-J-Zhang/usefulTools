@@ -114,6 +114,7 @@ CAD:
  - [blending] [http://www.realtimerendering.com/blog/gpus-prefer-premultiplication/](http://www.realtimerendering.com/blog/gpus-prefer-premultiplication/)
  - [Shader Storage Buffer Object] https://www.reddit.com/r/opengl/comments/e7ep5w/query_program_for_active_ubos_and_ssbos/
  - https://github.com/Unity-Technologies/Graphics/tree/master/com.unity.render-pipelines.universal/Shaders
+ - http://foundationsofgameenginedev.com/
  
 ## Blur
   - https://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
