@@ -187,6 +187,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 
 ## Math
 - http://kylehalladay.com/blog/tutorial/math/2013/12/24/Ray-Sphere-Intersection.html
+- http://www.cs.otago.ac.nz/postgrads/alexis/planeExtraction.pdf
 
 # Vulkan
 - https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers
