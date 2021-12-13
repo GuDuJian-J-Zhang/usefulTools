@@ -195,6 +195,9 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 ## UV Mapping
 - https://spectrum.chat/vectary/tips-and-tricks/how-to-apply-materials-to-3d-text~05a2993c-dd01-4238-a812-15b7e5260b12
 
+## Engine List:
+- https://github.com/turanszkij/WickedEngine
+
 # Vulkan
 - https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers
 
