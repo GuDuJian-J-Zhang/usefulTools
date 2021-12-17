@@ -197,6 +197,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 
 ## Engine List:
 - https://github.com/turanszkij/WickedEngine
+- https://github.com/ezEngine/ezEngine
 
 # Vulkan
 - https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers
