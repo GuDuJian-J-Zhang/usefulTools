@@ -160,6 +160,9 @@ CAD:
 ## Remote Rendering
 - Virtualgl [https://virtualgl.org/About/Introduction](https://virtualgl.org/About/Introduction)
 
+## Render Graph
+- http://simonstechblog.blogspot.com/2019/07/render-graph.html
+
 ## GPU
 - https://developer.arm.com/documentation/101897/0201/Overview
 
