@@ -162,6 +162,7 @@ CAD:
 
 ## Render Graph
 - http://simonstechblog.blogspot.com/2019/07/render-graph.html
+- https://logins.github.io/graphics/2021/05/31/RenderGraphs.html
 
 ## GPU
 - https://developer.arm.com/documentation/101897/0201/Overview
