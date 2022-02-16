@@ -146,6 +146,9 @@ CAD:
   - https://github.com/scanberg/hbao
   - noise https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
 
+## Screen Space Reflection
+  - https://lettier.github.io/3d-game-shaders-for-beginners/screen-space-reflection.html
+
 ## Recontruct normal from depth buffer
   - https://wickedengine.net/2019/09/22/improved-normal-reconstruction-from-depth/
   - https://atyuwen.github.io/posts/normal-reconstruction/
