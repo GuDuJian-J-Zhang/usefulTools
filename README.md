@@ -174,6 +174,9 @@ CAD:
 ## GPU Profiler
 - Snapdragon Profiler
 
+## AA
+- https://therealmjp.github.io/posts/msaa-overview/
+
 ## Siggraph
 http://advances.realtimerendering.com/s2014/
 
