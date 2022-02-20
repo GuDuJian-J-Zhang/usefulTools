@@ -176,6 +176,7 @@ CAD:
 
 ## AA
 - https://therealmjp.github.io/posts/msaa-overview/
+- http://blog.simonrodriguez.fr/articles/30-07-2016_implementing_fxaa.html
 
 ## Siggraph
 http://advances.realtimerendering.com/s2014/
