@@ -330,6 +330,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  - https://scoop.sh/ A command-line installer for Windows
  - https://ezgif.com/gif-to-mp4
  - https://www.knaldtech.com/lys/
+ - binary profiler https://github.com/google/bloaty
 
 ## c++ format
  - [FormatDocumentOnSave](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)  (vs 版本16.7.0以上)
