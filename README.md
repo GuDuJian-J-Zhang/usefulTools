@@ -167,6 +167,7 @@ CAD:
 - https://github.com/NVIDIAGameWorks/Falcor
 - http://simonstechblog.blogspot.com/2019/07/render-graph.html
 - https://logins.github.io/graphics/2021/05/31/RenderGraphs.html
+- ploat https://github.com/snap-stanford/snap (Stanford Network Analysis Platform)
 
 ## GPU
 - https://developer.arm.com/documentation/101897/0201/Overview
