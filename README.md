@@ -174,6 +174,7 @@ CAD:
 
 ## GPU Profiler
 - Snapdragon Profiler
+- https://github.com/wolfpld/tracy
 
 ## AA
 - https://therealmjp.github.io/posts/msaa-overview/
