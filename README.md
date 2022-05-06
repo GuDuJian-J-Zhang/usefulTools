@@ -197,6 +197,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 ## Acceleration Structure
 - https://github.com/madmann91/bvh
 - https://github.com/brandonpelfrey/Fast-BVH
+- https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/
 
 ## Blogs
 - https://casual-effects.com/
@@ -215,6 +216,9 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 ## Engine List:
 - https://github.com/turanszkij/WickedEngine
 - https://github.com/ezEngine/ezEngine
+
+## Ray Tracing
+- https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 # VR
 - https://developer.oculus.com/documentation/native/android/mobile-vrapi/
