@@ -340,6 +340,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  - https://ezgif.com/gif-to-mp4
  - https://www.knaldtech.com/lys/
  - binary profiler https://github.com/google/bloaty
+ - yuv player: https://listoffreeware.com/best-free-yuv-player-software-windows/
 
 ## c++ format
  - [FormatDocumentOnSave](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)  (vs 版本16.7.0以上)
