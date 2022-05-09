@@ -220,6 +220,9 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 ## Ray Tracing
 - https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
+## GI
+- https://github.com/EmbarkStudios/kajiya
+
 # VR
 - https://developer.oculus.com/documentation/native/android/mobile-vrapi/
 - https://arm-software.github.io/opengl-es-sdk-for-android/multiview.html
