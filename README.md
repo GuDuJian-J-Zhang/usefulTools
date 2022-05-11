@@ -350,6 +350,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  
 # Windows 录屏
  - https://www.screentogif.com/
+ - https://www.cockos.com/licecap/
  - Windows10 自带： win + G
 
 # 翻墙
