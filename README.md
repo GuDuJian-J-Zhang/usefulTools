@@ -232,6 +232,9 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 - https://github.com/vinjn/awesome-vulkan
 - https://github.com/David-DiGioia/vulkan-diagrams
 
+# Logging System
+- https://github.com/emilk/loguru
+
 # C/C++
  - 逆向工程 [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
  - DLib [http://dlib.net/](http://dlib.net/)
