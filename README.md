@@ -225,6 +225,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 
 ## GUI
 - https://github.com/alaingalvan/CrossWindow
+- https://github.com/avaloniaui/avalonia
 
 # VR
 - https://developer.oculus.com/documentation/native/android/mobile-vrapi/
