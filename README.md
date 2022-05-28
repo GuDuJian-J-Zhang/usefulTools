@@ -223,6 +223,9 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 ## GI
 - https://github.com/EmbarkStudios/kajiya
 
+## GUI
+- https://github.com/alaingalvan/CrossWindow
+
 # VR
 - https://developer.oculus.com/documentation/native/android/mobile-vrapi/
 - https://arm-software.github.io/opengl-es-sdk-for-android/multiview.html
@@ -244,7 +247,8 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  - 内存管理 [https://github.com/foonathan/memory](https://github.com/foonathan/memory)
  ## Learn C++
  - [https://cppcon.org/](https://cppcon.org/)
- - [https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+ - [https://isocpp.github.io/CppCore
+ delines/CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
  - Modern C++ [https://www.modernescpp.com/index.php](https://www.modernescpp.com/index.php)
  ## Data Struct
  - [https://github.com/Tessil/robin-map](https://github.com/Tessil/robin-map)
