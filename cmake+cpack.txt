@@ -1,0 +1,39 @@
+set(APP_NAME "Your app name")
+if(CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
+    set(CMAKE_INSTALL_PREFIX "c:/${APP_NAME}" CACHE PATH "..." FORCE)
+endif()
+install(TARGETS YourAPP RUNTIME)
+install(CODE "execute_process(COMMAND ${CMAKE_SOURCE_DIR}/YourScirpt.bat ${CMAKE_SOURCE_DIR} ${CMAKE_INSTALL_PREFIX})")
+        
+install(FILES 
+   "${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/${CONFIG_NAME}/YourApp'sDepedency1.dll"
+   "${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/${CONFIG_NAME}/YourApp'sDepedency2.dll"
+   "..."
+DESTINATION bin)
+        
+install(CODE "MESSAGE(\"COPY Folders...\")")
+install(DIRECTORY ${CMAKE_SOURCE_DIR}/YourAditionalFolders DESTINATION bin)
+install(CODE "MESSAGE(\"END COPY Folders...\")")
+
+set(APP_ICON "${CMAKE_SOURCE_DIR}/logo.ico")
+include(InstallRequiredSystemLibraries)
+set(CPACK_NSIS_MUI_ICON "${APP_ICON}")
+set(CPACK_NSIS_MUI_UNIICON "${APP_ICON}")
+set(CPACK_NSIS_EXTRA_INSTALL_COMMANDS "
+		SetOutPath '$instdir\\\\bin' 
+		CreateShortcut '$desktop\\\\${APP_NAME}.lnk' '$instdir\\\\bin\\\\YourAPP.exe' '' '$instdir\\\\bin\\\\logo.ico' 0
+		CreateDirectory '$SMPROGRAMS\\\\$STARTMENU_FOLDER'
+		CreateShortCut '$SMPROGRAMS\\\\$STARTMENU_FOLDER\\\\${APP_NAME}.lnk' '$INSTDIR\\\\bin\\\\YourAPP.exe' '' '$instdir\\\\bin\\\\logo.ico' 0
+")
+set(CPACK_NSIS_ENABLE_UNINSTALL_BEFORE_INSTALL "ON")
+set(CPACK_NSIS_MODIFY_PATH "ON")
+set(CPACK_NSIS_DISPLAY_NAME "${APP_NAME}")
+set(CPACK_NSIS_PACKAGE_NAME "${APP_NAME}")
+set(CPACK_NSIS_MUI_FINISHPAGE_RUN CPRenderInstance)
+#set(CPACK_PACKAGE_EXECUTABLES CPRenderInstance "${APP_NAME}")
+set(CPACK_PACKAGE_NAME "${APP_NAME}")
+set(CPACK_PACKAGE_VENDOR "Your Company")
+set(CPACK_SOURCE_GENERATOR "TGZ")
+set(CPACK_PACKAGE_DIRECTORY "c:/${APP_NAME}")
+set(CPACK_PACKAGE_INSTALL_DIRECTORY "Your Company\\\\${APP_NAME}")
+include(CPack)
