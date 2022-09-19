@@ -353,7 +353,6 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  - Enum to String [https://gist.github.com/ibab/54162246bc79279c43c7](https://gist.github.com/ibab/54162246bc79279c43c7)
  - https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/
  - Python Imaging Library [https://pypi.org/project/Pillow/](https://pypi.org/project/Pillow/)
- - https://github.com/conwnet/github1s
  - https://scoop.sh/ A command-line installer for Windows
  - https://ezgif.com/gif-to-mp4
  - https://www.knaldtech.com/lys/
