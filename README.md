@@ -86,6 +86,7 @@ CAD:
 
 # Real Time Communication (RTC)
  - [awesome-rtc](https://project-awesome.org/rtckit/awesome-rtc)
+ - https://webrtcforthecurious.com/
 
 # Learn OpenGL
 - [opengl](https://learnopengl-cn.github.io/intro/)
