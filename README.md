@@ -92,6 +92,9 @@ CAD:
  - TURN Server: https://github.com/coturn/coturn
  - OpenSSL installer: https://slproweb.com/products/Win32OpenSSL.html
  - https://github.com/paullouisageneau/libdatachannel
+ - https://www.webrtc-developers.com/did-i-choose-the-right-webrtc-stack/
+ - https://cloud.tencent.com/developer/article/1968375
+ - https://github.com/sipsorcery/webrtc-echoes
 
 # Learn OpenGL
 - [opengl](https://learnopengl-cn.github.io/intro/)
