@@ -373,6 +373,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  - binary profiler https://github.com/google/bloaty
  - yuv player: https://listoffreeware.com/best-free-yuv-player-software-windows/
  - open online github repo in one second: https://github.com/conwnet/github1s
+ - https://www.drawio.com/
 
 ## compile time optimize
  - https://github.com/Viladoman/CompileScore
