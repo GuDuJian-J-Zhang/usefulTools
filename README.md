@@ -1,6 +1,7 @@
 # AI Tools
 - [moonshot](https://kimi.moonshot.cn/)
 - [claude](https://www.anthropic.com/)
+- [aibase](https://top.aibase.com/)
 # usefulTools
 Some Useful Tools
 
