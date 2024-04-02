@@ -2,6 +2,9 @@
 - [moonshot](https://kimi.moonshot.cn/)
 - [claude](https://www.anthropic.com/)
 - [aibase](https://top.aibase.com/)
+# C++ 网络相关：
+- https://github.com/libcpr/cpr
+- https://github.com/paullouisageneau/libdatachannel
 # usefulTools
 Some Useful Tools
 
