@@ -397,3 +397,5 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
 # 翻墙
  - lantern [https://getlantern.org/zh_CN/index.html](https://getlantern.org/zh_CN/index.html)
 
+# 简历
+ - https://www.52cv.com/myResume
