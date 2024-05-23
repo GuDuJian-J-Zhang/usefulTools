@@ -382,6 +382,7 @@ uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13
  - open online github repo in one second: https://github.com/conwnet/github1s
  - 绘图：https://www.drawio.com/
  - 统计代码行数：[vscode-counter](https://marketplace.visualstudio.com/items?itemName=uctakeoff.vscode-counter)
+ - FFmpeg编译：https://zhuanlan.zhihu.com/p/588257350
 
 ## compile time optimize
  - https://github.com/Viladoman/CompileScore
