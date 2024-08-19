@@ -93,6 +93,9 @@ CAD:
 - [python 多进程]（https://github.com/noxdafox/pebble）
 - [python 多进程]（https://pythonhosted.org/Pebble/）
 
+# 二次开发
+ - [https://gidsimulation.atlassian.net/wiki/spaces/GCM/overview](https://gidsimulation.atlassian.net/wiki/spaces/GCM/overview)
+
 # Real Time Communication (RTC)
  - [awesome-rtc](https://project-awesome.org/rtckit/awesome-rtc)
  - https://webrtcforthecurious.com/
