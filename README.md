@@ -217,6 +217,78 @@ Float to half:
 uint32_t x = *((uint32_t*)&f);
 uint16_t h = ((x>>16)&0x8000)|((((x&0x7f800000)-0x38000000)>>13)&0x7c00)|((x>>13)&0x03ff);
 ```
+more stable version from chatgpt
+```
+uint16_t FloatToHalf(float f)
+{
+    uint32_t x = *((uint32_t*)&f);  // Get the raw bits of the float
+    uint16_t sign = (x >> 16) & 0x8000;  // Extract the sign bit
+    
+    uint32_t exp = (x >> 23) & 0xFF;  // Extract the exponent (8 bits)
+    uint32_t mant = x & 0x7FFFFF;     // Extract the mantissa (23 bits)
+
+    // Handle zero
+    if (exp == 0 && mant == 0) {
+        return sign;  // 0.0 or -0.0
+    }
+
+    // Handle denormalized numbers (subnormal)
+    if (exp == 0) {
+        // For denormals, we set the exponent to 1 and use the mantissa as is
+        return sign | ((mant >> 13) & 0x03FF);  // Shift the mantissa to fit
+    }
+
+    // Normalize the exponent (subtract 127 bias for float and add 15 bias for half)
+    exp = exp - 127 + 15;
+    
+    // Handle overflow (exp > 30 => Infinity)
+    if (exp >= 31) {
+        return sign | 0x7C00;  // Set exponent to max value (31) and mantissa to 0 (Infinity)
+    }
+
+    // Handle underflow (exp <= 0 => denormalized or zero)
+    if (exp <= 0) {
+        return sign;  // Zero or very small subnormal numbers
+    }
+
+    // Normalized number
+    return sign | (exp << 10) | (mant >> 13);
+}
+```
+Half -> Float
+```
+float HalfToFloat(uint16_t h) {
+    uint32_t sign = (h >> 15) & 0x1;                  // Extract sign bit
+    uint32_t exp = (h >> 10) & 0x1F;                  // Extract exponent (5 bits)
+    uint32_t mant = h & 0x3FF;                        // Extract mantissa (10 bits)
+
+    // Handle special cases for infinity and NaN
+    if (exp == 0x1F) {
+        if (mant == 0) {
+            return (sign == 0) ? INFINITY : -INFINITY;  // Infinity
+        } else {
+            return (sign == 0) ? NAN : -NAN;  // NaN
+        }
+    }
+
+    // Handle zero and denormalized numbers (exponent is 0)
+    if (exp == 0) {
+        if (mant == 0) {
+            return (sign == 0) ? 0.0f : -0.0f;  // Zero
+        }
+        // Denormalized number (subnormal)
+        exp = 1;  // Exponent is set to 1 for denormals (bias adjusted)
+    }
+
+    // Normalized number
+    // Reconstruct the float: (-1)^sign * (1 + mant / 1024) * 2^(exp - 15)
+    uint32_t f_exp = exp + (127 - 15);  // Add the bias for FP32
+    uint32_t f_mant = mant << 13;       // Shift mantissa to position in FP32
+
+    uint32_t f = (sign << 31) | (f_exp << 23) | f_mant;
+    return *reinterpret_cast<float*>(&f);
+}
+```
 
 ## Acceleration Structure
 - https://github.com/madmann91/bvh
